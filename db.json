@@ -1,0 +1,119 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "username": "sasmita",
+      "email": "sasmita@gmail.com",
+      "password": "Aim@2023",
+      "phone": 9861240113,
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "username": "abhay",
+      "email": "abhay@gmail.com",
+      "phone": 9861240113,
+      "password": "Aim@2023",
+      "isAdmin": true
+    },
+    {
+      "id": 3,
+      "username": "tanmay",
+      "email": "tanmay@gmail.com",
+      "phone": 9861240113,
+      "password": "Aim@2023",
+      "isAdmin": false
+    },
+    {
+      "id": 4,
+      "username": "soumaya",
+      "email": "soumaya@gmail.com",
+      "phone": 9861240113,
+      "password": "Aim@2023",
+      "isAdmin": false
+    },
+    {
+      "id": 5,
+      "username": "amulya",
+      "email": "amulya@gmail.com",
+      "phone": 9861240113,
+      "password": "Aim@2023",
+      "isAdmin": true
+    },
+    {
+      "id": 6,
+      "username": "partha",
+      "email": "partha@gmail.com",
+      "phone": 9861240113,
+      "password": "Aim@2023",
+      "isAdmin": false
+    },
+    {
+      "id": 7,
+      "username": "biswa",
+      "email": "biswa@gmail.com",
+      "phone": 9861240113,
+      "password": "Aim@2023",
+      "isAdmin": true
+    }
+  ],
+  "dailyActivity": [
+    {
+      "date": "2023-09-10",
+      "skills": "saa",
+      "status": "active",
+      "dialogOpen": false,
+      "deleteId": null,
+      "isEditing": false,
+      "editId": null,
+      "searchTerm": "",
+      "page": 0,
+      "rowsPerPage": 5,
+      "id": 16
+    },
+    {
+      "date": "2023-09-10",
+      "skills": "java",
+      "status": "active",
+      "isEditing": false,
+      "editId": null,
+      "id": 17
+    },
+    {
+      "date": "2023-09-10",
+      "skills": "sasa",
+      "status": "active",
+      "dialogOpen": false,
+      "deleteId": null,
+      "isEditing": false,
+      "editId": null,
+      "id": 18
+    },
+    {
+      "date": "2023-09-10",
+      "skills": "saas",
+      "status": "active",
+      "dialogOpen": false,
+      "deleteId": null,
+      "isEditing": false,
+      "editId": null,
+      "searchTerm": "",
+      "page": 0,
+      "rowsPerPage": 5,
+      "id": 19
+    },
+    {
+      "date": "2023-09-09",
+      "skills": "java",
+      "status": "active",
+      "dialogOpen": false,
+      "deleteId": null,
+      "isEditing": true,
+      "editId": 20,
+      "searchTerm": "",
+      "page": 0,
+      "rowsPerPage": 5,
+      "id": 20
+    }
+  ]
+}

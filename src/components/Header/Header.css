@@ -1,0 +1,33 @@
+.MuiAppBar-root.custom-header {
+    background-color: green;
+  }
+  
+  .header-toolbar {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .header-logo, .header-user {
+    color: white;
+  }
+  
+  .img2 img{
+	width: 150px;
+  margin-top: 8px;
+}
+.img3 {
+  position: relative; /* Set the position context for its child elements */
+}
+
+.img3 img {
+  width: 50px;
+  border-radius: 50%; /* Makes the image circular */
+}
+
+.icon-overlay {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background for the icon */
+  border-radius: 50%; /* Makes the icon container circular */
+}
